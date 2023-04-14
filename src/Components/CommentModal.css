@@ -1,0 +1,67 @@
+.loan {
+  text-align: end;
+  margin-left: 75%;
+  border: 1px solid rgb(226, 240, 254);
+  background-color: rgb(226, 240, 254);
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bolder;
+  font-size: 13px;
+}
+
+.userNameFirstWord {
+  vertical-align: middle;
+  text-align: center;
+  font-size: 28px;
+  background-color: #e0d0d0;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #212529;
+}
+.userMain {
+  display: flex;
+  gap: 30px;
+}
+.textArea {
+  width: 65rem;
+  height: 5rem;
+}
+.userInput {
+  display: block;
+}
+.cancelButton {
+  margin-left: 1rem;
+}
+.saveButton {
+  background-color: #809fff;
+  color: #fff;
+  width: 80px;
+  padding: 5px 0px 5px 0px;
+  border-radius: 4px;
+  border: none;
+}
+.cancelButton{
+ background-color: #fff;
+  color: #212529;
+  width: 80px;
+  padding: 5px 0px 5px 0px;
+  border-radius: 4px;
+  border: none;
+  font-weight: 500;
+  border: 0.5px solid grey;
+}
+
+.errorMessage {
+  color: red;
+}
+.selectedPerson {
+  text-align: end;
+  border: 1px solid rgb(226, 240, 254);
+  background-color: rgb(226, 240, 254);
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bolder;
+  font-size: 13px;
+  margin: 3px;
+}

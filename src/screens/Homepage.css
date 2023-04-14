@@ -1,0 +1,8 @@
+.formBox {
+  width: 30%;
+  margin: auto;
+  padding: 40px;
+}
+.error{
+    color: red;
+}
